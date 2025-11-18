@@ -16,3 +16,5 @@ stat@DESKTOP-VV370NK:~/tmp/what-is-a-squash-merge$ jj log -r ..
 │  initial commit
 ~
 ```
+
+With no fast forward ability:
